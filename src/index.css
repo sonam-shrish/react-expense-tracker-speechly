@@ -1,0 +1,16 @@
+body,
+html,
+#app {
+	height: 100vh;
+	font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+		'Helvetica Neue', sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+	height: 100vh;
+}
+
+body {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url(./assets/money-bg.png);
+	background-size: cover;
+}
